@@ -1,1 +1,1 @@
-Following free code camp's algorihmic trading course by Nick McCullum.
+Following free code camp's algorithmic trading course by Nick McCullum.
